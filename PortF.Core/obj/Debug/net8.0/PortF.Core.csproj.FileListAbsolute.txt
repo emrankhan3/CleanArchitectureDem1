@@ -1,0 +1,11 @@
+E:\Cpppp\Practice\PortF\PortF.Core\bin\Debug\net8.0\PortF.Core.deps.json
+E:\Cpppp\Practice\PortF\PortF.Core\bin\Debug\net8.0\PortF.Core.dll
+E:\Cpppp\Practice\PortF\PortF.Core\bin\Debug\net8.0\PortF.Core.pdb
+E:\Cpppp\Practice\PortF\PortF.Core\obj\Debug\net8.0\PortF.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cpppp\Practice\PortF\PortF.Core\obj\Debug\net8.0\PortF.Core.AssemblyInfoInputs.cache
+E:\Cpppp\Practice\PortF\PortF.Core\obj\Debug\net8.0\PortF.Core.AssemblyInfo.cs
+E:\Cpppp\Practice\PortF\PortF.Core\obj\Debug\net8.0\PortF.Core.csproj.CoreCompileInputs.cache
+E:\Cpppp\Practice\PortF\PortF.Core\obj\Debug\net8.0\PortF.Core.dll
+E:\Cpppp\Practice\PortF\PortF.Core\obj\Debug\net8.0\refint\PortF.Core.dll
+E:\Cpppp\Practice\PortF\PortF.Core\obj\Debug\net8.0\PortF.Core.pdb
+E:\Cpppp\Practice\PortF\PortF.Core\obj\Debug\net8.0\ref\PortF.Core.dll

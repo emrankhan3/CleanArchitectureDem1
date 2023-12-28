@@ -1,0 +1,17 @@
+E:\Cpppp\Practice\PortF\PortF.Data\bin\Debug\net8.0\PortF.Data.deps.json
+E:\Cpppp\Practice\PortF\PortF.Data\bin\Debug\net8.0\PortF.Data.runtimeconfig.json
+E:\Cpppp\Practice\PortF\PortF.Data\bin\Debug\net8.0\PortF.Data.dll
+E:\Cpppp\Practice\PortF\PortF.Data\bin\Debug\net8.0\PortF.Data.pdb
+E:\Cpppp\Practice\PortF\PortF.Data\bin\Debug\net8.0\PortF.Core.dll
+E:\Cpppp\Practice\PortF\PortF.Data\bin\Debug\net8.0\PortF.Core.pdb
+E:\Cpppp\Practice\PortF\PortF.Data\obj\Debug\net8.0\PortF.Data.csproj.AssemblyReference.cache
+E:\Cpppp\Practice\PortF\PortF.Data\obj\Debug\net8.0\PortF.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cpppp\Practice\PortF\PortF.Data\obj\Debug\net8.0\PortF.Data.AssemblyInfoInputs.cache
+E:\Cpppp\Practice\PortF\PortF.Data\obj\Debug\net8.0\PortF.Data.AssemblyInfo.cs
+E:\Cpppp\Practice\PortF\PortF.Data\obj\Debug\net8.0\PortF.Data.csproj.CoreCompileInputs.cache
+E:\Cpppp\Practice\PortF\PortF.Data\obj\Debug\net8.0\PortF.Data.csproj.CopyComplete
+E:\Cpppp\Practice\PortF\PortF.Data\obj\Debug\net8.0\PortF.Data.dll
+E:\Cpppp\Practice\PortF\PortF.Data\obj\Debug\net8.0\refint\PortF.Data.dll
+E:\Cpppp\Practice\PortF\PortF.Data\obj\Debug\net8.0\PortF.Data.pdb
+E:\Cpppp\Practice\PortF\PortF.Data\obj\Debug\net8.0\PortF.Data.genruntimeconfig.cache
+E:\Cpppp\Practice\PortF\PortF.Data\obj\Debug\net8.0\ref\PortF.Data.dll
