@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using PortF.Data;
+using PortF.Data.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,6 +8,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<AppDbContext>(option =>
 option.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddScoped<IBlogRepository,BlogRepository>();
+builder.Services.AddScoped<IWorkRepository,WorkRepository>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PortF.Data.Repository;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +9,12 @@ namespace PortF.Services
 {
     public class BlogServices
     {
-        public BlogServices BlogService = new BlogServices();
+        private readonly IBlogRepository blogRepository;
+
+        public BlogServices(IBlogRepository blogRepository)
+        {
+            this.blogRepository = blogRepository;
+        }
+
     }
 }
